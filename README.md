@@ -3,4 +3,4 @@
 - Utilized image processing techniques to track and count parked vehicles in real-time 
 - Developed a user-friendly interface to display the real-time count of parked vehicles and available parking spaces 
 - Tech Stack Used: Python and OpenCV
-- (Demo Video link)[https://youtu.be/aotORiflClc]
+- [Demo Video link](https://youtu.be/aotORiflClc)
